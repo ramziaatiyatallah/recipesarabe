@@ -21,7 +21,7 @@
       
       "AdInterval"         : 2,
       
-      "NativeAdRow"        : 2,
+      "NativeAdRow"        : 0,
 
       "AdPlacement": {
         
