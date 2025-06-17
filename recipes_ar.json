@@ -52,131 +52,172 @@
   
   "data": [
     {
-      "category": "Rice category",
+      "category": "فئة الأرز",
       "preview": "https://static01.nyt.com/images/2018/02/21/dining/00RICEGUIDE8/00RICEGUIDE8-jumbo.jpg",
       "recipes": [
         {
-          "title": "Javanese Fried Rice",
+          "title": "أرز مقلي جاوي",
           "cookPreview": "https://zonekapp.com/AndroidStudio/recipe/nasgor.jpg",
-          "cookTime": "15 min",
+          "cookTime": "15 دقيقة",
           "cookVideo": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
           "cookSteps": [
-            "The main ingredient:",
-            "Chicken breast, egg noodles, and fresh vegetables.",
-            "1. Heat oil in a pot and sauté chopped onion, garlic, carrots, and celery.",
-            "2. Add diced chicken breast and cook until lightly browned.",
-            "3. Pour in chicken broth and bring to a boil.",
+            "المكونات الرئيسية:",
+            "صدر دجاج، نودلز البيض، وخضروات طازجة.",
+            "1. سخن الزيت في قدر وقلّب البصل والثوم والجزر والكرفس المفروم.",
+            "2. أضف صدر الدجاج المقطع واطبخه حتى يتحمر قليلاً.",
+            "3. أضف مرق الدجاج واتركه يغلي.",
             "https://zonekapp.com/AndroidStudio/recipe/example.jpg",
-            "4. Add egg noodles and let it cook for 8–10 minutes.",
-            "5. Season with salt, pepper, and fresh parsley.",
-            "6. Serve hot with bread or crackers."
+            "4. أضف نودلز البيض واتركها تطهى لمدة 8–10 دقائق.",
+            "5. تبّل بالملح والفلفل والبقدونس الطازج.",
+            "6. قدّم الطبق ساخناً مع الخبز أو البسكويت."
           ]
         },
         {
-          "title": "Chicken Paratha Roll",
+          "title": "رول الباراتا بالدجاج",
           "cookPreview": "https://zonekapp.com/AndroidStudio/recipe/chicken.jpg",
-          "cookTime": "20 min",
+          "cookTime": "20 دقيقة",
           "cookVideo": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
           "cookSteps": [
-            "The main ingredient:",
-            "Chicken breast, egg noodles, and fresh vegetables.",
-            "1. Heat oil in a pot and sauté chopped onion, garlic, carrots, and celery.",
-            "2. Add diced chicken breast and cook until lightly browned.",
-            "3. Pour in chicken broth and bring to a boil.",
+            "المكونات الرئيسية:",
+            "صدر دجاج، نودلز البيض، وخضروات طازجة.",
+            "1. سخن الزيت في قدر وقلّب البصل والثوم والجزر والكرفس المفروم.",
+            "2. أضف صدر الدجاج المقطع واطبخه حتى يتحمر قليلاً.",
+            "3. أضف مرق الدجاج واتركه يغلي.",
             "https://zonekapp.com/AndroidStudio/recipe/example.jpg",
-            "4. Add egg noodles and let it cook for 8–10 minutes.",
-            "5. Season with salt, pepper, and fresh parsley.",
-            "6. Serve hot with bread or crackers."
+            "4. أضف نودلز البيض واتركها تطهى لمدة 8–10 دقائق.",
+            "5. تبّل بالملح والفلفل والبقدونس الطازج.",
+            "6. قدّم الطبق ساخناً مع الخبز أو البسكويت."
           ]
         },
         {
-          "title": "Test recipe 3",
+          "title": "وصفة اختبار 3",
           "cookPreview": "https://zonekapp.com/AndroidStudio/recipe/nasgor.jpg",
-          "cookTime": "15 min",
+          "cookTime": "15 دقيقة",
           "cookVideo": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
           "cookSteps": [
-            "The main ingredient:",
-            "Chicken breast, egg noodles, and fresh vegetables.",
-            "1. Heat oil in a pot and sauté chopped onion, garlic, carrots, and celery.",
-            "2. Add diced chicken breast and cook until lightly browned.",
-            "3. Pour in chicken broth and bring to a boil.",
+            "المكونات الرئيسية:",
+            "صدر دجاج، نودلز البيض، وخضروات طازجة.",
+            "1. سخن الزيت في قدر وقلّب البصل والثوم والجزر والكرفس المفروم.",
+            "2. أضف صدر الدجاج المقطع واطبخه حتى يتحمر قليلاً.",
+            "3. أضف مرق الدجاج واتركه يغلي.",
             "https://zonekapp.com/AndroidStudio/recipe/example.jpg",
-            "4. Add egg noodles and let it cook for 8–10 minutes.",
-            "5. Season with salt, pepper, and fresh parsley.",
-            "6. Serve hot with bread or crackers."
+            "4. أضف نودلز البيض واتركها تطهى لمدة 8–10 دقائق.",
+            "5. تبّل بالملح والفلفل والبقدونس الطازج.",
+            "6. قدّم الطبق ساخناً مع الخبز أو البسكويت."
           ]
         },
         {
-          "title": "Test recipe 4",
+          "title": "وصفة اختبار 4",
           "cookPreview": "https://zonekapp.com/AndroidStudio/recipe/chicken.jpg",
-          "cookTime": "20 min",
+          "cookTime": "20 دقيقة",
           "cookVideo": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
           "cookSteps": [
-            "The main ingredient:",
-            "Chicken breast, egg noodles, and fresh vegetables.",
-            "1. Heat oil in a pot and sauté chopped onion, garlic, carrots, and celery.",
-            "2. Add diced chicken breast and cook until lightly browned.",
-            "3. Pour in chicken broth and bring to a boil.",
+            "المكونات الرئيسية:",
+            "صدر دجاج، نودلز البيض، وخضروات طازجة.",
+            "1. سخن الزيت في قدر وقلّب البصل والثوم والجزر والكرفس المفروم.",
+            "2. أضف صدر الدجاج المقطع واطبخه حتى يتحمر قليلاً.",
+            "3. أضف مرق الدجاج واتركه يغلي.",
             "https://zonekapp.com/AndroidStudio/recipe/example.jpg",
-            "4. Add egg noodles and let it cook for 8–10 minutes.",
-            "5. Season with salt, pepper, and fresh parsley.",
-            "6. Serve hot with bread or crackers."
+            "4. أضف نودلز البيض واتركها تطهى لمدة 8–10 دقائق.",
+            "5. تبّل بالملح والفلفل والبقدونس الطازج.",
+            "6. قدّم الطبق ساخناً مع الخبز أو البسكويت."
           ]
         }
       ]
     },
     {
-      "category": "Soup category",
+      "category": "فئة الحساء",
       "preview": "https://healthyfitnessmeals.com/wp-content/uploads/2021/11/Creamy-chicken-tortilla-soup-5-600x600.jpg",
       "recipes": [
         {
-          "title": "Chicken Noodle Soup",
+          "title": "شوربة الدجاج بالنودلز",
           "cookPreview": "https://www.tastingtable.com/img/gallery/40-types-of-soup-and-what-makes-them-unique/intro-1661261800.jpg",
-          "cookTime": "30 min",
+          "cookTime": "30 دقيقة",
           "cookVideo": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
           "cookSteps": [
-            "Boil water.",
-            "Add noodles and chicken.",
-            "Simmer until cooked.",
-            "Season to taste."
+            "اغلِ الماء.",
+            "أضف النودلز والدجاج.",
+            "اتركه على نار هادئة حتى ينضج.",
+            "تبّل حسب الرغبة."
           ]
         },
         {
-          "title": "Tomato Basil Soup",
+          "title": "شوربة الطماطم والريحان",
           "cookPreview": "https://i0.wp.com/s.lightorangebean.com/media/20240914150528/tomato-basil-soup_done-768x482.png",
-          "cookTime": "25 min",
+          "cookTime": "25 دقيقة",
           "cookVideo": "",
           "cookSteps": [
-            "Sauté onions and garlic in olive oil.",
-            "Add chopped tomatoes and basil leaves.",
-            "Simmer for 20 minutes.",
+            "قلّب البصل والثوم في زيت الزيتون.",
+            "أضف الطماطم المفرومة وأوراق الريحان.",
+            "اتركه على نار هادئة لمدة 20 دقيقة.",
             "https://zonekapp.com/AndroidStudio/recipe/example.jpg",
-            "Blend until smooth.",
-            "Serve hot."
+            "اخلط المزيج حتى يصبح ناعماً.",
+            "قدّمه ساخناً."
           ]
         }
       ]
     },
     {
-      "category": "Dessert category",
+      "category": "فئة الحلويات",
       "preview": "https://cdn.prod.website-files.com/5ddea854c6438680c98a678d/61ed937ce6302a6ca49091e8_istockphoto-497959594-612x612.jpg",
       "recipes": [
         {
-          "title": "Chocolate Lava Cake",
+          "title": "كيك الشوكولاتة البركانية",
           "cookPreview": "https://images.getrecipekit.com/20250325120225-how-20to-20make-20chocolate-20molten-20lava-20cake-20in-20the-20microwave.png",
-          "cookTime": "40 min",
+          "cookTime": "40 دقيقة",
           "cookVideo": "",
           "cookSteps": [
-            "Preheat oven to 220°C (425°F).",
-            "Melt chocolate and butter together.",
-            "Whisk eggs and sugar until fluffy.",
-            "Combine chocolate mixture with eggs.",
-            "Pour batter into molds.",
-            "Bake for 12 minutes.",
-            "Serve warm with ice cream."
+            "سخّن الفرن إلى 220 درجة مئوية (425 فهرنهايت).",
+            "قم بإذابة الشوكولاتة والزبدة معًا.",
+            "اخفق البيض والسكر حتى يصبح رغويًا.",
+            "ادمج خليط الشوكولاتة مع البيض.",
+            "اسكب الخليط في القوالب.",
+            "اخبز لمدة 12 دقيقة.",
+            "قدّمها دافئة مع الآيس كريم."
+          ]
+        }
+      ]
+    },
+      {
+      "category": "فئة الحلويات",
+      "preview": "https://scontent.frak1-1.fna.fbcdn.net/v/t39.30808-6/491656230_1016791227308934_6930710086706914538_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=aa7b47&_nc_eui2=AeGjkIEL6vDm0yJg5zlhJALENHSOfXofPgA0dI59eh8-AE2inQ3fSRJolHDWfGD3MlhWjx2WExKsUs4rkEgvhFed&_nc_ohc=y9c3CmZB-JwQ7kNvwHRPUp2&_nc_oc=Admjk30A-85CgZGtGGZLQMqlbXVKCclPhI9XQcEVr_Xkjnokolwri-zBibUbs4zNV5k&_nc_zt=23&_nc_ht=scontent.frak1-1.fna&_nc_gid=-gpSD_GdJBkdMlEWFUJ16A&oh=00_AfOJHvXfD9zVBate_01TcTM4v5X5lzNgn8lA_veZvYNGXg&oe=685796BA",
+      "recipes": [
+        {
+          "title": "كيكة الشوكولاتة بالكريمة",
+          "cookPreview": "https://scontent.frak1-1.fna.fbcdn.net/v/t39.30808-6/491656230_1016791227308934_6930710086706914538_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=aa7b47&_nc_eui2=AeGjkIEL6vDm0yJg5zlhJALENHSOfXofPgA0dI59eh8-AE2inQ3fSRJolHDWfGD3MlhWjx2WExKsUs4rkEgvhFed&_nc_ohc=y9c3CmZB-JwQ7kNvwHRPUp2&_nc_oc=Admjk30A-85CgZGtGGZLQMqlbXVKCclPhI9XQcEVr_Xkjnokolwri-zBibUbs4zNV5k&_nc_zt=23&_nc_ht=scontent.frak1-1.fna&_nc_gid=-gpSD_GdJBkdMlEWFUJ16A&oh=00_AfOJHvXfD9zVBate_01TcTM4v5X5lzNgn8lA_veZvYNGXg&oe=685796BA",
+          "cookTime": "40 دقيقة",
+          "cookVideo": "",
+          "cookSteps": [
+            "المكونات:
+للكيك:
+• 3 بيضات
+• 1 كوب سكر
+• ¼ كوب سمن أو زبدة
+• ½ كوب حليب
+• 3 ملاعق كبيرة كاكاو
+• 1 ظرف بيكنج بودر
+• 1 ظرف فانيليا
+• 1 ونصف كوب دقيق
+• حليب لسقي الكيك
+
+لصوص الشوكولاتة:
+• 1 ظرف بودرة شوكولاتة
+• 1 كوب حليب
+• 1 ملعقة صغيرة زبدة
+
+للكريمة:
+• 2 ظرف كريم شانتيه
+• 1 ونصف كوب حليب",
+            "طريقة التحضير:
+في طبق، نخفق البيض مع السكر باستخدام المضرب الكهربائي حتى يصبح القوام كريمي. نضيف الحليب، والسمن (أو الزبدة)، والكاكاو، والفانيليا، ثم ننخل الدقيق مع البيكنج بودر ونضيفهم للخليط، ونخفق حتى تتجانس المكونات. ندهن طبق بايركس بالزبدة، نصب الخليط، وندخله فرن مسخن مسبقًا على حرارة 180 درجة لمدة 20 دقيقة تقريبًا. بعد أن ينضج الكيك، نتركه يبرد قليلًا ثم نقسمه إلى نصفين.
+
+لتحضير الصوص، نخلط بودرة الشوكولاتة مع الحليب في حلة على البارد، ثم نرفعها على النار مع التقليب المستمر حتى يبدأ الخليط في الغليان. نضيف الزبدة، نحرك جيدًا، ثم نرفع الصوص عن النار ونتركه يبرد.
+
+نخفق الكريم شانتيه مع الحليب حتى يصبح قوامه كريمي ومتجانس. بعد أن يبرد الكيك، نسقيه بالحليب، ثم نضع طبقة من الكريم شانتيه بين نصفي الكيك. نوزع صوص الشوكولاتة على الوجه، ثم ندخل الكيك الثلاجة حتى تتماسك. بعد التبريد، نقطعها حسب الرغبة وتُقدَّم."
           ]
         }
       ]
     }
   ]
+
 }
