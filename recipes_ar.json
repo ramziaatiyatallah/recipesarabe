@@ -157,30 +157,6 @@
         }
       ]
     },
-      {
-      "category": "فئة الحلويات",
-      "preview": "https://scontent.frak1-2.fna.fbcdn.net/v/t39.30808-6/491816168_1016792383975485_6968994810724609749_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=aa7b47&_nc_eui2=AeGSWxYWeiB9LHrAMZADEDHutAqe_2KQBam0Cp7_YpAFqWi0j6ZvSnFfpWBFwqL3AE_H3SUvGs9ftFaCrxb0NWUG&_nc_ohc=LjM2DIFX7XAQ7kNvwE6X9Mf&_nc_oc=AdnoRKyi_jiovTNAaV6Ipvm3mAu33c9UKsnEtiu_shUoteQaNNz35yhgVTlrwDtrRU8&_nc_zt=23&_nc_ht=scontent.frak1-2.fna&_nc_gid=kAMnMRQAQWkurLHoXt4_gw&oh=00_AfM15wK-VsgOvo8SAKV3zwD4DrXBvQnZ3GZ3PX7wmSwDSw&oe=6857A25C",
-      "recipes": [
-        {
-          "title": "تيراميسو اللوتس",
-          "cookPreview": "https://scontent.frak1-2.fna.fbcdn.net/v/t39.30808-6/491816168_1016792383975485_6968994810724609749_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=aa7b47&_nc_eui2=AeGSWxYWeiB9LHrAMZADEDHutAqe_2KQBam0Cp7_YpAFqWi0j6ZvSnFfpWBFwqL3AE_H3SUvGs9ftFaCrxb0NWUG&_nc_ohc=LjM2DIFX7XAQ7kNvwE6X9Mf&_nc_oc=AdnoRKyi_jiovTNAaV6Ipvm3mAu33c9UKsnEtiu_shUoteQaNNz35yhgVTlrwDtrRU8&_nc_zt=23&_nc_ht=scontent.frak1-2.fna&_nc_gid=kAMnMRQAQWkurLHoXt4_gw&oh=00_AfM15wK-VsgOvo8SAKV3zwD4DrXBvQnZ3GZ3PX7wmSwDSw&oe=6857A25C",
-          "cookTime": "30 دقيقة",
-          "cookVideo": "",
-          "cookSteps": [
-            "المكونات:",
-              "10 قطع جبن كريمي (أو 200 جم)",
-              "½ كوب زبدة لوتس",
-              "½ كوب حليب بارد",
-              "1 ظرف كريمة خفق بودرة",
-              "بسكويت لوتس",
-              "الطريقة:",
-            "يُخفق الجبن الكريمي مع زبدة اللوتس حتى يصبح قوامه كريمي. يُضاف الحليب وكريمة الخفق، ويُخفق حتى تتجانس المكونات.",
-              "في صينية مقاس 20×20 سم، تُوضع طبقة من بسكويت اللوتس بعد غمسه في الحليب، ثم تُضاف طبقة من الكريمة، مع قليل من زبدة اللوتس المُذابة. تُكرر الطبقات 3 مرات، ثم تُغطى الوجه بطبقة من زبدة اللوتس، ويُرش عليها بسكويت لوتس مطحون.",
-            "تُوضع الصينية في الثلاجة لمدة 5-6 ساعات حتى تتماسك."
-          ]
-        }
-      ]
-    },
     {
       "category": "فئة الحلويات",
       "preview": "https://cdn.prod.website-files.com/5ddea854c6438680c98a678d/61ed937ce6302a6ca49091e8_istockphoto-497959594-612x612.jpg",
@@ -198,6 +174,24 @@
             "اسكب الخليط في القوالب.",
             "اخبز لمدة 12 دقيقة.",
             "قدّمها دافئة مع الآيس كريم."
+          ]
+        },
+          {
+          "title": "تيراميسو اللوتس",
+          "cookPreview": "https://scontent.frak1-2.fna.fbcdn.net/v/t39.30808-6/491816168_1016792383975485_6968994810724609749_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=aa7b47&_nc_eui2=AeGSWxYWeiB9LHrAMZADEDHutAqe_2KQBam0Cp7_YpAFqWi0j6ZvSnFfpWBFwqL3AE_H3SUvGs9ftFaCrxb0NWUG&_nc_ohc=LjM2DIFX7XAQ7kNvwE6X9Mf&_nc_oc=AdnoRKyi_jiovTNAaV6Ipvm3mAu33c9UKsnEtiu_shUoteQaNNz35yhgVTlrwDtrRU8&_nc_zt=23&_nc_ht=scontent.frak1-2.fna&_nc_gid=kAMnMRQAQWkurLHoXt4_gw&oh=00_AfM15wK-VsgOvo8SAKV3zwD4DrXBvQnZ3GZ3PX7wmSwDSw&oe=6857A25C",
+          "cookTime": "30 دقيقة",
+          "cookVideo": "",
+          "cookSteps": [
+            "المكونات:",
+              "10 قطع جبن كريمي (أو 200 جم)",
+              "½ كوب زبدة لوتس",
+              "½ كوب حليب بارد",
+              "1 ظرف كريمة خفق بودرة",
+              "بسكويت لوتس",
+              "الطريقة:",
+            "يُخفق الجبن الكريمي مع زبدة اللوتس حتى يصبح قوامه كريمي. يُضاف الحليب وكريمة الخفق، ويُخفق حتى تتجانس المكونات.",
+              "في صينية مقاس 20×20 سم، تُوضع طبقة من بسكويت اللوتس بعد غمسه في الحليب، ثم تُضاف طبقة من الكريمة، مع قليل من زبدة اللوتس المُذابة. تُكرر الطبقات 3 مرات، ثم تُغطى الوجه بطبقة من زبدة اللوتس، ويُرش عليها بسكويت لوتس مطحون.",
+            "تُوضع الصينية في الثلاجة لمدة 5-6 ساعات حتى تتماسك."
           ]
         }
       ]
