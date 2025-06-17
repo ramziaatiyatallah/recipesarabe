@@ -1,0 +1,183 @@
+{
+
+"AppRedirect": {
+    "status"     : false,
+    "redirectURL": "https://play.google.com/store/apps/details?id=com.spotify.music"
+  },
+  
+  
+  "AdController": {
+      
+      "README": [
+        "To run ads for each network, enter one of the following: 'admob' , 'facebook' ",
+        "⚠️Warning: Facebook does not support OpenAd."
+      ],
+      
+      "BannerNetwork"      : "admob",
+      "InterstitialNetwork": "admob",
+      "NativeNetwork"      : "admob",
+      
+      "OpenAdNetwork"      : "admob",
+      
+      "AdInterval"         : 2,
+      
+      "NativeAdRow"        : 2,
+
+      "AdPlacement": {
+        
+        "AdMobBanner"         : "ca-app-pub-3940256099942544/6300978111",
+        "AdMobInterstitial"   : "ca-app-pub-3940256099942544/1033173712",
+        "AdMobNative"         : "ca-app-pub-3940256099942544/2247696110",
+        "AdMobOpenAd"         : "ca-app-pub-3940256099942544/9257395921",
+        
+        "FacebookBanner"      : "IMG_16_9_APP_INSTALL#692961278482629_692963411815749",
+        "FacebookInterstitial": "IMG_16_9_APP_INSTALL#692961278482629_692963491815741",
+        "FacebookNative"      : "IMG_16_9_LINK#692961278482629_857100538735368"
+
+      }
+    },
+  
+  "PopAdSetting": {
+    "showPop"  : true,
+    "showClose": true,
+    "adList": [
+      {
+        "preview": "https://lh3.googleusercontent.com/Z-5iIKQ6vfJfauCq1_0yV6ol-qEK6KyRWmRSMYoKYqGCqfMFJJIsSgVyoJiukqnQX4yJRxoTEHxwZ4mkbfx6k-rVQsoNMx3kdCk",
+        "title": "Good new ! we added new app check it !",
+        "button_title": "Install now",
+        "button_url": "https://github.com/saidmotya/"
+      }
+    ]
+  },
+  
+  "data": [
+    {
+      "category": "فئة الأرز",
+      "preview": "https://static01.nyt.com/images/2018/02/21/dining/00RICEGUIDE8/00RICEGUIDE8-jumbo.jpg",
+      "recipes": [
+        {
+          "title": "أرز مقلي جاوي",
+          "cookPreview": "https://zonekapp.com/AndroidStudio/recipe/nasgor.jpg",
+          "cookTime": "15 دقيقة",
+          "cookVideo": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+          "cookSteps": [
+            "المكونات الرئيسية:",
+            "صدر دجاج، نودلز البيض، وخضروات طازجة.",
+            "1. سخن الزيت في قدر وقلّب البصل والثوم والجزر والكرفس المفروم.",
+            "2. أضف صدر الدجاج المقطع واطبخه حتى يتحمر قليلاً.",
+            "3. أضف مرق الدجاج واتركه يغلي.",
+            "https://zonekapp.com/AndroidStudio/recipe/example.jpg",
+            "4. أضف نودلز البيض واتركها تطهى لمدة 8–10 دقائق.",
+            "5. تبّل بالملح والفلفل والبقدونس الطازج.",
+            "6. قدّم الطبق ساخناً مع الخبز أو البسكويت."
+          ]
+        },
+        {
+          "title": "رول الباراتا بالدجاج",
+          "cookPreview": "https://zonekapp.com/AndroidStudio/recipe/chicken.jpg",
+          "cookTime": "20 دقيقة",
+          "cookVideo": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
+          "cookSteps": [
+            "المكونات الرئيسية:",
+            "صدر دجاج، نودلز البيض، وخضروات طازجة.",
+            "1. سخن الزيت في قدر وقلّب البصل والثوم والجزر والكرفس المفروم.",
+            "2. أضف صدر الدجاج المقطع واطبخه حتى يتحمر قليلاً.",
+            "3. أضف مرق الدجاج واتركه يغلي.",
+            "https://zonekapp.com/AndroidStudio/recipe/example.jpg",
+            "4. أضف نودلز البيض واتركها تطهى لمدة 8–10 دقائق.",
+            "5. تبّل بالملح والفلفل والبقدونس الطازج.",
+            "6. قدّم الطبق ساخناً مع الخبز أو البسكويت."
+          ]
+        },
+        {
+          "title": "وصفة اختبار 3",
+          "cookPreview": "https://zonekapp.com/AndroidStudio/recipe/nasgor.jpg",
+          "cookTime": "15 دقيقة",
+          "cookVideo": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+          "cookSteps": [
+            "المكونات الرئيسية:",
+            "صدر دجاج، نودلز البيض، وخضروات طازجة.",
+            "1. سخن الزيت في قدر وقلّب البصل والثوم والجزر والكرفس المفروم.",
+            "2. أضف صدر الدجاج المقطع واطبخه حتى يتحمر قليلاً.",
+            "3. أضف مرق الدجاج واتركه يغلي.",
+            "https://zonekapp.com/AndroidStudio/recipe/example.jpg",
+            "4. أضف نودلز البيض واتركها تطهى لمدة 8–10 دقائق.",
+            "5. تبّل بالملح والفلفل والبقدونس الطازج.",
+            "6. قدّم الطبق ساخناً مع الخبز أو البسكويت."
+          ]
+        },
+        {
+          "title": "وصفة اختبار 4",
+          "cookPreview": "https://zonekapp.com/AndroidStudio/recipe/chicken.jpg",
+          "cookTime": "20 دقيقة",
+          "cookVideo": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
+          "cookSteps": [
+            "المكونات الرئيسية:",
+            "صدر دجاج، نودلز البيض، وخضروات طازجة.",
+            "1. سخن الزيت في قدر وقلّب البصل والثوم والجزر والكرفس المفروم.",
+            "2. أضف صدر الدجاج المقطع واطبخه حتى يتحمر قليلاً.",
+            "3. أضف مرق الدجاج واتركه يغلي.",
+            "https://zonekapp.com/AndroidStudio/recipe/example.jpg",
+            "4. أضف نودلز البيض واتركها تطهى لمدة 8–10 دقائق.",
+            "5. تبّل بالملح والفلفل والبقدونس الطازج.",
+            "6. قدّم الطبق ساخناً مع الخبز أو البسكويت."
+          ]
+        }
+      ]
+    },
+    {
+      "category": "فئة الحساء",
+      "preview": "https://healthyfitnessmeals.com/wp-content/uploads/2021/11/Creamy-chicken-tortilla-soup-5-600x600.jpg",
+      "recipes": [
+        {
+          "title": "شوربة الدجاج بالنودلز",
+          "cookPreview": "https://www.tastingtable.com/img/gallery/40-types-of-soup-and-what-makes-them-unique/intro-1661261800.jpg",
+          "cookTime": "30 دقيقة",
+          "cookVideo": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+          "cookSteps": [
+            "اغلِ الماء.",
+            "أضف النودلز والدجاج.",
+            "اتركه على نار هادئة حتى ينضج.",
+            "تبّل حسب الرغبة."
+          ]
+        },
+        {
+          "title": "شوربة الطماطم والريحان",
+          "cookPreview": "https://i0.wp.com/s.lightorangebean.com/media/20240914150528/tomato-basil-soup_done-768x482.png",
+          "cookTime": "25 دقيقة",
+          "cookVideo": "",
+          "cookSteps": [
+            "قلّب البصل والثوم في زيت الزيتون.",
+            "أضف الطماطم المفرومة وأوراق الريحان.",
+            "اتركه على نار هادئة لمدة 20 دقيقة.",
+            "https://zonekapp.com/AndroidStudio/recipe/example.jpg",
+            "اخلط المزيج حتى يصبح ناعماً.",
+            "قدّمه ساخناً."
+          ]
+        }
+      ]
+    },
+    {
+      "category": "فئة الحلويات",
+      "preview": "https://cdn.prod.website-files.com/5ddea854c6438680c98a678d/61ed937ce6302a6ca49091e8_istockphoto-497959594-612x612.jpg",
+      "recipes": [
+        {
+          "title": "كيك الشوكولاتة البركانية",
+          "cookPreview": "https://images.getrecipekit.com/20250325120225-how-20to-20make-20chocolate-20molten-20lava-20cake-20in-20the-20microwave.png",
+          "cookTime": "40 دقيقة",
+          "cookVideo": "",
+          "cookSteps": [
+            "سخّن الفرن إلى 220 درجة مئوية (425 فهرنهايت).",
+            "قم بإذابة الشوكولاتة والزبدة معًا.",
+            "اخفق البيض والسكر حتى يصبح رغويًا.",
+            "ادمج خليط الشوكولاتة مع البيض.",
+            "اسكب الخليط في القوالب.",
+            "اخبز لمدة 12 دقيقة.",
+            "قدّمها دافئة مع الآيس كريم."
+          ]
+        }
+      ]
+    }
+  ]
+
+}
