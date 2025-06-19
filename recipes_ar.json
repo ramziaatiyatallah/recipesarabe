@@ -52,24 +52,55 @@
   
   "data": [
     {
-      "category": "فئة الأرز",
-      "preview": "https://static01.nyt.com/images/2018/02/21/dining/00RICEGUIDE8/00RICEGUIDE8-jumbo.jpg",
+      "category": "فئة السلطات",
+      "preview": "https://firebasestorage.googleapis.com/v0/b/the-eminence-in-shadow.appspot.com/o/500px-Salad_platter02_crop.jpg?alt=media&token=57b488e4-18c8-4c79-a59f-834137886835",
       "recipes": [
         {
-          "title": "أرز مقلي جاوي",
-          "cookPreview": "https://zonekapp.com/AndroidStudio/recipe/nasgor.jpg",
+          "title": "سلطة جانك يارد",
+          "cookPreview": "https://firebasestorage.googleapis.com/v0/b/the-eminence-in-shadow.appspot.com/o/494199521_727038886382608_4986347067757060415_n.jpg?alt=media&token=bfe495da-ab9b-4099-a681-5e9de48ffd7a",
           "cookTime": "15 دقيقة",
-          "cookVideo": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+          "cookVideo": "",
           "cookSteps": [
-            "المكونات الرئيسية:",
-            "صدر دجاج، نودلز البيض، وخضروات طازجة.",
-            "1. سخن الزيت في قدر وقلّب البصل والثوم والجزر والكرفس المفروم.",
-            "2. أضف صدر الدجاج المقطع واطبخه حتى يتحمر قليلاً.",
-            "3. أضف مرق الدجاج واتركه يغلي.",
-            "https://zonekapp.com/AndroidStudio/recipe/example.jpg",
-            "4. أضف نودلز البيض واتركها تطهى لمدة 8–10 دقائق.",
-            "5. تبّل بالملح والفلفل والبقدونس الطازج.",
-            "6. قدّم الطبق ساخناً مع الخبز أو البسكويت."
+            "المكونات:",
+              "4 أكواب سلطة خضار مشكلة (مثل السبانخ والجرجير والرومان)",
+              "1 كوب طماطم كرزية، مقطعة إلى نصفين",
+             "1 خيارة، مقطعة إلى مكعبات",
+              "1 فلفل رومي مقطع مكعبات (أي لون)",
+             "1 كوب من الجزر المبشور ",
+             "1 كوب حبات الذرة (طازجة أو معلبة)",
+             "1 كوب حمص معلب، مغسول ومصفى",
+             "1/2 بصلة حمراء، مقطعة إلى شرائح رفيعة",
+             "1/2 كوب زيتون أسود، مقطع إلى شرائح",
+             "1/2 كوب جبنة فيتا، مفتتة",
+              "ربع كوب من البقدونس الطازج، المفروم",
+              
+             "للخلع الملابس:",
+              "1/4 كوب زيت زيتون",
+             "2 ملعقة كبيرة خل النبيذ الأحمر",
+             "1 ملعقة كبيرة خردل ديجون",
+             "1 ملعقة صغيرة عسل",
+             "الملح والفلفل حسب الذوق",
+              
+             "التعليمات:",
+             "الخطوة 1: تحضير السلطة", 
+              
+             "في وعاء سلطة كبير، اخلطي خضار السلطة المشكلة والطماطم الكرزية والخيار والفلفل الحلو والجزر المبشور والذرة والحمص والبصل الأحمر والزيتون الأسود وجبنة الفيتا. إرم بلطف لخلط جميع المكونات بالتساوي.",
+              
+              "الخطوة 2: اصنعي الملابس",
+              
+             "في وعاء صغير، اخفقي زيت الزيتون والخل الأحمر وخردل ديجون والعسل والملح والفلفل حتى تمتزج جيدًا وتستحلب.",
+              
+              "الخطوة 3: تلبيس السلطة",
+              
+             "تُسكب الصلصة فوق السلطة وتُقلب بلطف لتتغطى جميع المكونات بالتساوي مع الصلصة. ",
+              
+             "الخطوة 4: التزيين والتقديم ",
+              
+             "رشي البقدونس الطازج المفروم على الوجه للتزيين. يُقدم الطبق على الفور أو يُوضع في الثلاجة لمدة 30 دقيقة حتى تذوب النكهات.",
+              
+             "وقت التحضير: ",
+              
+             " 15 دقيقة | الوقت الإجمالي: 15 دقيقة | الوجبات: 4-6"
           ]
         },
         {
@@ -161,25 +192,9 @@
       "category": "فئة الحلويات",
       "preview": "https://cdn.prod.website-files.com/5ddea854c6438680c98a678d/61ed937ce6302a6ca49091e8_istockphoto-497959594-612x612.jpg",
       "recipes": [
-        {
-          "title": "كيك الشوكولاتة البركانية",
-          "cookPreview": "https://images.getrecipekit.com/20250325120225-how-20to-20make-20chocolate-20molten-20lava-20cake-20in-20the-20microwave.png",
-          "cookTime": "40 دقيقة",
-          "cookVideo": "",
-          "cookSteps": [
-            "سخّن الفرن إلى 220 درجة مئوية (425 فهرنهايت).",
-            "قم بإذابة الشوكولاتة والزبدة معًا.",
-            "اخفق البيض والسكر حتى يصبح رغويًا.",
-            "ادمج خليط الشوكولاتة مع البيض.",
-            "اسكب الخليط في القوالب.",
-            "اخبز لمدة 12 دقيقة.",
-            "قدّمها دافئة مع الآيس كريم."
-          ]
-        }
-          ,
           {
           "title": "جاتوه شاتوه بكريمة الكراميل والجاناش",
-          "cookPreview": "https://scontent.frak2-2.fna.fbcdn.net/v/t39.30808-6/491924992_1016801513974572_4518591337565651795_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=aa7b47&_nc_eui2=AeG_WHTkfRLW_DP1Km-qD1wnZ0fLmU8FNN1nR8uZTwU03SnV2Op3IY6RxnJvlh6fsE1B0B2oHcqCtbOiTxqRE-WQ&_nc_ohc=4i4EgJe6wowQ7kNvwG58bvp&_nc_oc=AdlrVcOv1eSfZLN1v4nHNoitqh197-wKF34OicQpN1QOiAa2L1k_lfjrYnpsZc0vNGU&_nc_zt=23&_nc_ht=scontent.frak2-2.fna&_nc_gid=j8w-oXRnOGnJpdv7uEbglg&oh=00_AfNxADNdC3fTvXPBzYAe_SWgmdqatvOJ3a3RMQMkDG4vJA&oe=68579C4E",
+          "cookPreview": "https://firebasestorage.googleapis.com/v0/b/the-eminence-in-shadow.appspot.com/o/491924992_1016801513974572_4518591337565651795_n.jpg?alt=media&token=f5f3c899-6e34-4690-ab73-e96bfd2852de",
           "cookTime": "30 دقيقة",
           "cookVideo": "",
           "cookSteps": [
@@ -236,7 +251,7 @@
         },
           {
           "title": "ريد فيلفت بالكريمة",
-          "cookPreview": "https://scontent.frak2-1.fna.fbcdn.net/v/t39.30808-6/491066785_1016792150642175_108712395850768334_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=aa7b47&_nc_eui2=AeG19Xv_UWxQkuOuDrYxEi5AW3KGbLKCAVxbcoZssoIBXIDGoqifrP7qBW8vLVzUC0tmTxGbvaabEH9PTY_Jxm8j&_nc_ohc=dIJ9uHD6VG8Q7kNvwGdEOCs&_nc_oc=AdkciINoYLflnXAaq8k_lcsZtyjkNGBi5UIPlxhKf2NGr9Gj8AONrSgwlSza2e5WWe0&_nc_zt=23&_nc_ht=scontent.frak2-1.fna&_nc_gid=5SiyIXe2-y9XXfhoR4czqw&oh=00_AfPjgVWbjwiMUuHJQ73hz8NXrZv-j4OfbasM_t8hGisR8w&oe=6857ADEE",
+          "cookPreview": "https://firebasestorage.googleapis.com/v0/b/the-eminence-in-shadow.appspot.com/o/491066785_1016792150642175_108712395850768334_n.jpg?alt=media&token=9d9cb6b7-48b5-4137-b2be-8a99c2ec1851",
           "cookTime": "30-35 دقيقة",
           "cookVideo": "",
           "cookSteps": [
@@ -271,7 +286,7 @@
         },
           {
           "title": "تيراميسو اللوتس",
-          "cookPreview": "https://scontent.frak1-2.fna.fbcdn.net/v/t39.30808-6/491816168_1016792383975485_6968994810724609749_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=aa7b47&_nc_eui2=AeGSWxYWeiB9LHrAMZADEDHutAqe_2KQBam0Cp7_YpAFqWi0j6ZvSnFfpWBFwqL3AE_H3SUvGs9ftFaCrxb0NWUG&_nc_ohc=LjM2DIFX7XAQ7kNvwE6X9Mf&_nc_oc=AdnoRKyi_jiovTNAaV6Ipvm3mAu33c9UKsnEtiu_shUoteQaNNz35yhgVTlrwDtrRU8&_nc_zt=23&_nc_ht=scontent.frak1-2.fna&_nc_gid=kAMnMRQAQWkurLHoXt4_gw&oh=00_AfM15wK-VsgOvo8SAKV3zwD4DrXBvQnZ3GZ3PX7wmSwDSw&oe=6857A25C",
+          "cookPreview": "https://firebasestorage.googleapis.com/v0/b/the-eminence-in-shadow.appspot.com/o/491816168_1016792383975485_6968994810724609749_n.jpg?alt=media&token=8cb5413a-3495-4c2d-84e2-740f52dfcf3b",
           "cookTime": "30 دقيقة",
           "cookVideo": "",
           "cookSteps": [
